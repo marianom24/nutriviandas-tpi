@@ -85,7 +85,10 @@ La revisión de los Pull Requests fue realizada por el propio autor por tratarse
 
 ## Declaración de Uso de IA
 
-- Utilicé Claude para revisar y corregir el diagrama BPMN, para realizar la estructura de este readme.md, y para generar ideas sobre posibles indicadores de control y estandares de rendimiento.
+Utilicé Claude:
+- para revisar y corregir el diagrama BPMN, pasando un boceto hecho en Draw.io, resultó en la correción de 1 error con respecto a una compuerta de decisión.
+- para realizar la estructura de este readme.md, yo aporte la información y el modelo la estructuró en formato MarkDown
+- para generar ideas sobre posibles indicadores de control y estandares de rendimiento, adjunte los documentos correspondientes para darle el contexto adecuado y de las 15 ideas propuestas, elegí las que me parecieron más indicadas para el caso. 
 
 La responsabilidad sobre la revisión, comprensión y entrega final del trabajo es
 completamente mía.
