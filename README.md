@@ -28,8 +28,9 @@ El objetivo es reducir el desperdicio de insumos, evitar pedidos sin stock y agi
 
 ## Enlaces
 
-- **Tablero ágil (Jira / GitHub Projects):** _(se completa al crear el tablero)_
+- **Tablero ágil (Jira):** [Tablero NutriViandas en Jira](https://marianosworkspace-42421091.atlassian.net/jira/software/projects/KAN/boards/1)
 
+  
 ## Estructura del repositorio
 
 ```
@@ -84,7 +85,7 @@ La revisión de los Pull Requests fue realizada por el propio autor por tratarse
 
 ## Declaración de Uso de IA
 
-- Utilicé Claude para revisar y corregir el diagrama BPMN, para realizar la estructura de este readme.md, y para generar ideas sobre posibles indicadores de rendimiento.
+- Utilicé Claude para revisar y corregir el diagrama BPMN, para realizar la estructura de este readme.md, y para generar ideas sobre posibles indicadores de control y estandares de rendimiento.
 
 La responsabilidad sobre la revisión, comprensión y entrega final del trabajo es
 completamente mía.
