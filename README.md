@@ -28,8 +28,9 @@ El objetivo es reducir el desperdicio de insumos, evitar pedidos sin stock y agi
 
 ## Enlaces
 
-- **Tablero ágil (Jira / GitHub Projects):** _(se completa al crear el tablero)_
+- **Tablero ágil (Jira):** [Tablero NutriViandas en Jira](https://marianosworkspace-42421091.atlassian.net/jira/software/projects/KAN/boards/1)
 
+  
 ## Estructura del repositorio
 
 ```
